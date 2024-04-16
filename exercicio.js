@@ -8,6 +8,8 @@
 
 // 4) Tente concatenar com coerção um number com uma string. Vamos ver o que acontece ?
 
+// 5) crie uma variavel chamada numeros que some dois valores , depois deve concatenar com a string "o livro tem (o resultado do number) paginas" usando `${}` .
+
 
 
 
